@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="peaceScope"
+  id="myeclipse.1480153144692"
+  context-root="/peaceScope"
+  j2ee-spec="5.0"
+  archive="peaceScope.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
