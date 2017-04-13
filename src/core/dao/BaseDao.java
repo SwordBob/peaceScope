@@ -28,7 +28,9 @@ import org.hibernate.criterion.Restrictions;
 import core.support.BaseParameter;
 import core.support.QueryResult;
 
-
+/** 
+* @author t-niejq
+*/
  
 public class BaseDao<E> implements Dao<E> {
 
